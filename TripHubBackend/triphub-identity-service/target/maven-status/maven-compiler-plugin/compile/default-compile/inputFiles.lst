@@ -1,0 +1,11 @@
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\config\SecurityConfig.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\controller\AuthController.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\domain\Role.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\domain\User.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\dto\AuthResponse.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\dto\LoginRequest.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\dto\RegisterRequest.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\IdentityServiceApplication.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\repository\UserRepository.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\service\AuthService.java
+C:\Users\suman\OneDrive\Desktop\NewProject\TripHubBackend\triphub-identity-service\src\main\java\com\triphub\identity\service\JwtTokenService.java

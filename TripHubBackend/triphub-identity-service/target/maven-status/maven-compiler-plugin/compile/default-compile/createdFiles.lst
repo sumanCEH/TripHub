@@ -1,0 +1,11 @@
+com\triphub\identity\IdentityServiceApplication.class
+com\triphub\identity\dto\AuthResponse.class
+com\triphub\identity\dto\LoginRequest.class
+com\triphub\identity\config\SecurityConfig.class
+com\triphub\identity\domain\User.class
+com\triphub\identity\dto\RegisterRequest.class
+com\triphub\identity\repository\UserRepository.class
+com\triphub\identity\domain\Role.class
+com\triphub\identity\service\AuthService.class
+com\triphub\identity\service\JwtTokenService.class
+com\triphub\identity\controller\AuthController.class

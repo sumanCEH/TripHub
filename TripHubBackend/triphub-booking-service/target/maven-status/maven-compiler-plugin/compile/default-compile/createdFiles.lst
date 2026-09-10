@@ -1,0 +1,7 @@
+com\triphub\booking\BookingServiceApplication.class
+com\triphub\booking\domain\Registration.class
+com\triphub\booking\dto\BookingResponse.class
+com\triphub\booking\controller\BookingController.class
+com\triphub\booking\dto\BookingRequest.class
+com\triphub\booking\repository\RegistrationRepository.class
+com\triphub\booking\service\BookingService.class

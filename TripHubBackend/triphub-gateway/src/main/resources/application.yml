@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: triphub-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+
+logging:
+  level:
+    org.springframework.cloud.gateway: INFO
